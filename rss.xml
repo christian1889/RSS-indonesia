@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+    <channel>
+        <title>Descubre Indonesia</title>
+        <link>https://christian1889.github.io/Indone/</link>
+        <description>Conoce indonesia un poquito</description>
+    <item>
+       <title>Historia</title>
+       <link>https://christian1889.github.io/Indone/Historia.html</link>
+       <description>Breve historia del pais</description>
+    </item>
+    <item>
+        <title>Ciudades</title>
+        <link>https://christian1889.github.io/Indone/Ciudades.html</link>
+        <description>Conoce las ciudades del Pais</description>
+    </item>
+    <item>
+        <title>Fauna y Flora</title>
+        <link>https://christian1889.github.io/Indone/Fauna.html</link>
+        <description>Asi es la fauna y la flora de este pais</description>
+    </item> 
+    <item>
+        <title>Tiempo</title>
+        <link>https://christian1889.github.io/Indone/Tiempo.html</link>
+        <description>Descubre el clima</description>
+    </item>
+    <item>
+        <title>Viajar</title>
+        <link>https://christian1889.github.io/Indone/Viajar.html</link>
+        <description>Que saber antes de viajar a indonesia</description>
+    </item> 
+    </channel>   
+</rss>
